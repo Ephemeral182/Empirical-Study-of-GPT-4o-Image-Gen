@@ -1,19 +1,16 @@
-# An Empirical Study of GPT-4o Image Generation Capabilities
-
 # 🚀 Unveiling GPT-4o's Image Generation Prowess: A Comprehensive Empirical Deep Dive 🖼️
 
-**(Link to Paper)** | **(Link to Project Page/Demo if applicable)**
+**[Paper on arXiv](https://arxiv.org/abs/2504.05979)** | **[High-Res PDF on Google Drive](https://drive.google.com/file/d/14PNtDBv1LC2QG5E6zdMV-gpIv9TTl_VQ/view?usp=drive_link)** | **(Link to Project Page/Demo if applicable)**
 
 **Authors:** Sixiang Chen, Jinbin Bai, Zhuoran Zhao, Tian Ye, Qingyu Shi, Donghao Zhou, Wenhao Chai, Xin Lin, Jianzong Wu, Chao Tang, Shilin Xu, Tao Zhang, Haobo Yuan, Yikang Zhou, Wei Chow, Linfeng Li, Xiangtai Li, Lei Zhu, Lu Qi
 
-*(Affiliations: The Hong Kong University of Science and Technology (GZ), National University of Singapore, Peking University, The Chinese University of Hong Kong, University of Washington, Wuhan University, The Hong Kong University of Science and Technology)*
-
+*(Affiliations: The Hong Kong University of Science and Technology (GZ), National University of Singapore, Peking University, The Chinese University of Hong Kong, University of Washington, Wuhan University)*
 
 ## Overview
 
 The world marvels at the image generation capabilities of models like GPT-4o, but their closed-source nature leaves many questions unanswered. How truly capable is GPT-4o compared to its peers? Has the dream of a *unified* model for text and image generation been realized internally?
 
-This repository accompanies our paper, **"An Empirical Study of GPT-4o Image Generation Capabilities"**, which presents the **first comprehensive empirical benchmark** of GPT-4o's image generation performance. We rigorously evaluated GPT-4o against leading open-source and commercial systems (including Gemini 2.0 Flash Experimental, Midjourney, FLUX, and various SOTA models) across a massive range of tasks, providing critical insights into its strengths, weaknesses, and its place in the evolution of generative AI.
+This repository accompanies our paper, **"An Empirical Study of GPT-40 Image Generation Capabilities"**, which presents the **first comprehensive empirical benchmark** of GPT-4o's image generation performance. We rigorously evaluated GPT-4o against leading open-source and commercial systems (including Gemini 2.0 Flash Experimental, Midjourney, FLUX, and various SOTA models) across a massive range of tasks, providing critical insights into its strengths, weaknesses, and its place in the evolution of generative AI.
 
 ## Key Contributions & Scope
 
@@ -68,3 +65,21 @@ Despite its strengths, GPT-4o is not without limitations:
 This work provides a crucial, in-depth empirical baseline for understanding GPT-4o's image generation capabilities. It showcases the immense power achieved by large multimodal models while highlighting the remaining challenges in consistency, fidelity, bias, and reasoning that pave the way for future research towards truly unified and reliable generative systems.
 
 **Dive into the full paper for detailed examples and analysis!**
+
+## Acknowledgements
+
+We sincerely thank all authors for their dedication and hard work in conducting this comprehensive empirical study.
+
+## Citation
+
+If you find this work useful in your research, please consider citing our paper:
+
+```bibtex
+@misc{chen2025empirical,
+      title={An Empirical Study of GPT-40 Image Generation Capabilities}, 
+      author={Sixiang Chen and Jinbin Bai and Zhuoran Zhao and Tian Ye and Qingyu Shi and Donghao Zhou and Wenhao Chai and Xin Lin and Jianzong Wu and Chao Tang and Shilin Xu and Tao Zhang and Haobo Yuan and Yikang Zhou and Wei Chow and Linfeng Li and Xiangtai Li and Lei Zhu and Lu Qi},
+      year={2025},
+      eprint={2504.05979},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

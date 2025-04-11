@@ -20,11 +20,11 @@ We conducted a detailed qualitative analysis covering **more than 20 distinct ta
 
 1.  **Text-to-Image Generation:**
     * Complex Prompt Following (Attribute Binding, Numeracy, Object Relationships)
-    * **Exceptional Text Rendering (Short & Long Text, Document Generation)**
+    * Exceptional Text Rendering (Short & Long Text, Document Generation)
     * Panorama Generation
 2.  **Image-to-Image Generation:**
     * Style Transfer (Diverse Artistic Styles)
-    * **Advanced Image Editing (Fine-grained, Large-scale, Subject Preservation)**
+    * Advanced Image Editing (Fine-grained, Large-scale, Subject Preservation)
     * Subject Customization (Single & Multi-Concept Personalization)
     * Story Image Generation (Coherent Multi-Panel Narratives)
     * Low-Level Vision (Denoising, Deraining, Dehazing, Super-Res, In/Outpainting, Colorization, Relighting, etc.)

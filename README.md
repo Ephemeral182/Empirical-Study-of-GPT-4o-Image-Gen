@@ -1,10 +1,12 @@
 # 🚀 Unveiling GPT-4o's Image Generation Prowess: A Comprehensive Empirical Deep Dive 🖼️
 
-**[Paper on arXiv](https://arxiv.org/abs/2504.05979)** | **[High-Res PDF on Google Drive](https://drive.google.com/file/d/14PNtDBv1LC2QG5E6zdMV-gpIv9TTl_VQ/view?usp=drive_link)** | **(Link to Project Page/Demo if applicable)**
+**[Paper on arXiv](https://arxiv.org/abs/2504.05979)** | **[High-Res PDF on Google Drive](https://drive.google.com/file/d/14PNtDBv1LC2QG5E6zdMV-gpIv9TTl_VQ/view?usp=drive_link)** 
 
-**Authors:** Sixiang Chen, Jinbin Bai, Zhuoran Zhao, Tian Ye, Qingyu Shi, Donghao Zhou, Wenhao Chai, Xin Lin, Jianzong Wu, Chao Tang, Shilin Xu, Tao Zhang, Haobo Yuan, Yikang Zhou, Wei Chow, Linfeng Li, Xiangtai Li, Lei Zhu, Lu Qi
+**Authors:** [Sixiang Chen](https://ephemeral182.github.io/), [Jinbin Bai](https://noyii.github.io/), [Zhuoran Zhao](https://alicezrzhao.github.io/), [Tian Ye](https://owen718.github.io/), [Qingyu Shi](https://scholar.google.com.hk/citations?user=VpSqhJAAAAAJ&hl=zh-CN), [Donghao Zhou](https://correr-zhou.github.io/), [Wenhao Chai](https://wenhaochai.com/), [Xin Lin](https://linxin0.github.io/), [Jianzong Wu](https://jianzongwu.github.io/), Chao Tang, [Shilin Xu](https://scholar.google.com/citations?user=8bBcL9sAAAAJ&hl=en), [Tao Zhang](https://scholar.google.com/citations?user=3xu4a5oAAAAJ&hl=en), [Haobo Yuan](https://yuanhaobo.me/), [Yikang Zhou](https://scholar.google.com/citations?user=dZikW2YAAAAJ&hl=en), [Wei Chow](https://openreview.net/profile?id=~Wei_Chow1), [Linfeng Li](https://scholar.google.com/citations?user=noWaiKgAAAAJ&hl=en), [Xiangtai Li](https://lxtgh.github.io/), [Lei Zhu](https://sites.google.com/site/indexlzhu/home), [Lu Qi](http://luqi.info/)
 
-*(Affiliations: The Hong Kong University of Science and Technology (GZ), National University of Singapore, Peking University, The Chinese University of Hong Kong, University of Washington, Wuhan University)*
+
+*(Affiliations: The Hong Kong University of Science and Technology (GZ), National University of Singapore, Peking University, The Chinese University of Hong Kong, University of Washington, Wuhan University, The Hong Kong University of Science and Technology)*
+
 
 ## Overview
 

@@ -20,7 +20,7 @@
 
 The world marvels at the image generation capabilities of models like GPT-4o, but their closed-source nature leaves many questions unanswered. How truly capable is GPT-4o compared to its peers? Has the dream of a *unified* model for text and image generation been realized internally?
 
-This repository accompanies our paper, **"An Empirical Study of GPT-40 Image Generation Capabilities"**, which presents the **first comprehensive empirical benchmark** of GPT-4o's image generation performance. We rigorously evaluated GPT-4o against leading open-source and commercial systems (including Gemini 2.0 Flash Experimental, Midjourney, FLUX, and various SOTA models) across a massive range of tasks, providing critical insights into its strengths, weaknesses, and its place in the evolution of generative AI.
+This repository accompanies our paper, **"An Empirical Study of GPT-4o Image Generation Capabilities"**, which presents the **first comprehensive empirical benchmark** of GPT-4o's image generation performance. We rigorously evaluated GPT-4o against leading open-source and commercial systems (including Gemini 2.0 Flash Experimental, Midjourney, FLUX, and various SOTA models) across a massive range of tasks, providing critical insights into its strengths, weaknesses, and its place in the evolution of generative AI.
 
 ## Key Contributions & Scope
 
